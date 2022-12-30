@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "eslint": "5.9.x",
-    "mocha": "6.2.x",
+    "mocha": "10.2.x",
     "nyc": "15.x"
   },
   "license": "MIT",
